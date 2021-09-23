@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huseyin Zorbey Zengin
 - 👀 I’m interested in Unity Game Development and React.js
-- 🌱 I work on Unity, C#, ASP.NET, ASP.NET Core and MVC, MSSQL
+- 🌱 I work on Unity, C#, ASP.NET, ASP.NET Core, MVC, MSSQL and React.js
 - 📫 Anyone can reach me from "huseyinzorbey34@gmail.com" or "https://www.linkedin.com/in/h%C3%BCseyin-zorbey-zengin/"
 
 <!---
